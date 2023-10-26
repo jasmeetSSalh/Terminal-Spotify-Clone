@@ -1,6 +1,6 @@
 # Music & Podcast Terminal Application
 
-![Application Screenshot]((https://drive.google.com/file/d/1WqxIJZOyNavUrkwNvBlT3Yu3nypnqENX/view?usp=sharing))
+![image](https://drive.google.com/file/d/1WqxIJZOyNavUrkwNvBlT3Yu3nypnqENX/view?usp=sharing)
 
 ## Overview
 
